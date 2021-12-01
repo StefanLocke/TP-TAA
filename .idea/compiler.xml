@@ -16,7 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TP-TAA" target="11" />
+      <module name="TP-TAA" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
